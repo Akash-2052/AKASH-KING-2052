@@ -1,4 +1,4 @@
-os.system("pkg install espeak")
+#os.system("pkg install espeak")
 #-----------------[ AKASH KING ]-------------------#
  
 import requests,bs4,json,os,sys,random,datetime,time,re
